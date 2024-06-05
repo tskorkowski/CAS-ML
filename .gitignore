@@ -1,2 +1,6 @@
 venv/
 sessions/project1/backup/Project 1 - Template.ipynb
+sessions/Project_2_Insurance_Claim_Prediction/hp_random_search/
+sessions/Project_2_Insurance_Claim_Prediction/hp_random_search_old/
+sessions/Project_2_Insurance_Claim_Prediction/tuner_best/
+sessions/Project_2_Insurance_Claim_Prediction/hp_random_search/
